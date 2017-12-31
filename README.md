@@ -12,7 +12,7 @@ Popular deep learning architectures, like Convolutional Neural Networks (CNNs) a
 
 ## Contents
 1. Introduction & Getting Started
-2. Build your first neural network with Gluon
+2. [Build your first neural network with Gluon](https://github.com/indradenbakker/Introduction-to-Deep-Learning-with-Gluon/tree/master/Chapter02_Build-your-first-neural-network-with-Gluon#chapter-2---build-your-first-neural-network-with-gluon)
 3. Convolutional Neural Networks (CNNs)
 4. Recurrent Neural Networks (RNNs)
 5. Deep Reinforcement Learning (RL)
@@ -21,7 +21,3 @@ Popular deep learning architectures, like Convolutional Neural Networks (CNNs) a
 8. Optimize, deploy, and scale deep learning models (in the cloud)
 9. Bringing deep learning models into production
 10. Advanced deep learning topics & applications
-
-
-
-
