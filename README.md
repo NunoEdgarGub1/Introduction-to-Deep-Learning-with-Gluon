@@ -54,7 +54,7 @@ For an optimal experience with hands-on labs and other practical activities, we 
 
 ## Author
 ### Indra den Bakker
-* GitHub:[@indradenbakker](https://github.com/indradenbakker))
+* GitHub: [@indradenbakker](https://github.com/indradenbakker)
 * Twitter: [@indradenbakker](https://twitter.com/indradenbakker)
 * [LinkedIn](https://www.linkedin.com/in/indradenbakker/)
 * Kaggle: [@indradenbakker](https://www.kaggle.com/indradenbakker)
