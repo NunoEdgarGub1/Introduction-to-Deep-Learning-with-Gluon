@@ -1,5 +1,6 @@
 # Introduction to Deep Learning with Gluon
 Start building deep neural networks using an intuitive Python interface
+__under development__ please contact me if you have any questions or feedback
 
 ## Overview
 Learn how to use Gluon’s intuitive Python interface to build deep learning models and solve real-world problems. Deep learning is the main driver behind the breakthroughs in Artificial Intelligence, it revolutionized computer vision and natural language processing. The best way to get started with deep learning is by gaining hands-on experience that you can leverage for your own projects. 
